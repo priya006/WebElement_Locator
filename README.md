@@ -7,3 +7,4 @@ WebElement         | Xpath Expression   |
 item_title  | Content Cell    |
 search_button | //xpath 
 select_category| //xpath
+shop_by_category_button| //xpath
