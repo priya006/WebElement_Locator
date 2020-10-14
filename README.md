@@ -5,3 +5,4 @@ WebElement         | Xpath Expression   |
 ------------- | -------------   |
 [search_box](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/search_box.png)  | `//input[@class='gh-tb ui-autocomplete-input']`  |
 item_title  | Content Cell    |
+search_button | //xpath
