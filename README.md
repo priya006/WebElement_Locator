@@ -1,5 +1,5 @@
 **Base_url:** https://www.qa.ebay.com/
-### View Item Page
+### Search Page
                     
 WebElement         | Xpath Expression   | 
 ------------- | -------------   |
