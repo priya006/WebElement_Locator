@@ -1,6 +1,6 @@
 ### View Item Page
                     
-First Header  | Second Header   | 
+WebElement         | Xpath Expression   | 
 ------------- | -------------   |
 Content Cell  | Content Cell    |
 Content Cell  | Content Cell    |
