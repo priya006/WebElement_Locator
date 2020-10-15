@@ -8,3 +8,4 @@ item_title  | Content Cell    |
 search_button | //xpath 
 select_category| //xpath
 shop_by_category_button| //xpath
+Model_categories_left_nav| `class name = x-refine__left__nav`
