@@ -14,5 +14,5 @@ WebElement         | Syntax   | Xpath Expression|
 
 # References
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
-- [Cheat_Sheet](https://devhints.io/xpath)
+- [Cheat Sheet](https://devhints.io/xpath)
 
