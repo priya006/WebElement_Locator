@@ -5,7 +5,7 @@ WebElement         | Syntax   | Xpath Expression|
 ------------- | -------------   | -------------------------
 [search_box](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/search_box.png)  | `//tagname[@attributername='attributevalue']` |`//input[@class='gh-tb ui-autocomplete-input']`|
 some  | syntax    | xpath |
-search_button | //xpath |some|
-select_category_dropdown| //xpath | some|
-shop_by_category_button| //xpath | some
-Model_categories_left_nav| `class name = x-refine__left__nav` | some
+[search_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Search_Button.png)| //xpath |some|
+[select_category_dropdown](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Select_categoty.png)| //xpath | some|
+[shop_by_category_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Shop_By_category.png)| //xpath | some
+[Model_categories_left_nav](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Model_category.png)| `class name = x-refine__left__nav` | some
