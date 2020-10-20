@@ -10,6 +10,7 @@ WebElement         | Syntax   | Xpath Expression|
 [shop_by_category_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Shop_By_category.png)| //xpath | some
 [Model_categories_left_nav](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Model_category.png)| `class name = x-refine__left__nav` | some
 [Guranteed_3_day_delivery_toggle](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Guranteed_3_day_delivery_toggle.png) | syntax | 
+[Favourites](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Favourites.png)|syntax| xpath
 
 
 # References
