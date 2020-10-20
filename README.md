@@ -6,7 +6,7 @@ WebElement         | Syntax   | Xpath Expression|
 [search_box](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/search_box.png)  | `//tagname[@attributername='attributevalue']` |`//input[@class='gh-tb ui-autocomplete-input']`|
 [Best_Match_Drop_Down](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Best_Match_Drop_Down.png)  | //tagName[@class='classname']//child::tagname[text()="matchedtext"]    | //span[@class='expand-btn__cell']//child::span[text()="Best Match"] |
 [search_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Search_Button.png)| //tagName[@attribute-name='attribute-value' and @attribute-name='attribute-value'] |//input[@type='submit' and @value='Search']|
-[select_category_dropdown](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Select_categoty.png)| //xpath | some|
+[select_category_dropdown](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Select_categoty.png)| //tagName[contains(@attribute-name,'attribute-value')] | `//select[contains(@aria-label,'category')]`|
 [shop_by_category_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Shop_By_category.png)| //xpath | some
 [Model_categories_left_nav](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Model_category.png)| `class name = x-refine__left__nav` | some
 [Guranteed_3_day_delivery_toggle](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Guranteed_3_day_delivery_toggle.png) | syntax | 
