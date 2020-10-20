@@ -12,6 +12,11 @@ WebElement         | Syntax   | Xpath Expression|
 [Guranteed_3_day_delivery_toggle](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Guranteed_3_day_delivery_toggle.png) | syntax | 
 [Favourites](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Favourites.png)|syntax| xpath
   
+# Tips and tricks
+1. Attribute name will always start with `@` symbol. Example: `//input[@type='submit' and @value='Search']`
+
+# jQuery HTML DOM
+
 
 # References
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
