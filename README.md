@@ -17,7 +17,7 @@ WebElement         | Syntax   | Xpath Expression|
 
 # jQuery HTML DOM
 
-# How to use Chrome Developer console to write Xpath
+# How to use Chrome Developer console to write Xpath?
 
 
 # References
