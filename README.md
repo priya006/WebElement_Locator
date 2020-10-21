@@ -24,7 +24,8 @@ WebElement         | Syntax   | Xpath Expression|
 
 # jQuery HTML DOM
 
-# Javascript in Chrome COnsole to find Element
+# Javascript in Chrome Console to find Element
+1. Find Webelement `document.getElementById("gh-ac")`
 
 # Search WebElemnts using Search option in Chrome
 1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
