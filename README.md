@@ -26,8 +26,8 @@ WebElement         | Syntax   | Xpath Expression|
 
 # Javascript in Chrome Console to find Element
 1. Find Webelement `document.getElementById("gh-ac")`
-2. *ParentNode* of WebElement can be found like so `document.getElementById('gh-ac-box').parentNode.nodeName;`
-3. InnerText of a WebElement can be found like so `var innerHtml = document.getElementsByClassName("srp-format-tabs-h2")[0].innerHTML;`
+2. **ParentNode** of WebElement can be found like so `document.getElementById('gh-ac-box').parentNode.nodeName;`
+3. **InnerText** of a WebElement can be found like so `var innerHtml = document.getElementsByClassName("srp-format-tabs-h2")[0].innerHTML;`
 
 # Search WebElemnts using Search option in Chrome
 1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
