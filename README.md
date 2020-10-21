@@ -22,23 +22,25 @@ WebElement         | Syntax   | Xpath Expression|
 # Tips and tricks
 1. Attribute name will always start with `@` symbol. Example: `//input[@type='submit' and @value='Search']`
 
-# jQuery HTML DOM
+# JavaScript in Chrome Console  
 
-# Javascript in Chrome Console to find Element
+# Use HTML DOM in Chrome Console to find WebElement
 1. Find Webelement `document.getElementById("gh-ac")`
 2. **ParentNode** of WebElement can be found like so `document.getElementById('gh-ac-box').parentNode.nodeName;`
 3. **InnerText** of a WebElement can be found like so `var innerHtml = document.getElementsByClassName("srp-format-tabs-h2")[0].innerHTML;`
 4. **First Child** could be found like so `document.getElementById('gh-ac-box').firstChild;`
 
-# Search WebElemnts using Search option in Chrome
-1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
-2. Copy paste an xpath in the search bar to locate the weblement
-
-# How to use Chrome Developer console to write Xpath?
+# How to use JQuery in Chrome Developer console to write Xpath?
 1. Launch chrome browser Click `cmd+option+i` in mac OS. Chrome developer tool opens.
 2. Click open `Console`
 3. Type `$x("xpath")` Example: `$x("//input[@class='gh-tb ui-autocomplete-input']")`
 4. From console right clicking takes you to [Element panel](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Chrome_console.gif)
+
+# Search WebElemnts using Search option in Chrome
+1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
+2. Copy paste an xpath in the search bar to locate the weblement
+
+
 
 # References
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
