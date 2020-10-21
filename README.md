@@ -18,7 +18,9 @@ WebElement         | Syntax   | Xpath Expression|
 # jQuery HTML DOM
 
 # How to use Chrome Developer console to write Xpath?
-
+1. Launch chrome browser Click `cmd+option+i` in mac OS. Chrome developer tool opens.
+2. Click open `Console`
+3. Type `$x("xpath")` Example: `$x("//input[@class='gh-tb ui-autocomplete-input']")`
 
 # References
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
