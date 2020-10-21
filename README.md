@@ -11,7 +11,7 @@ WebElement         | Syntax   | Xpath Expression|
 [Model_categories_left_nav](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Model_category.png)| `class name = x-refine__left__nav` | some
 [Guranteed_3_day_delivery_toggle](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Guranteed_3_day_delivery_toggle.png) | `//tagName[@attribute-name='attribute-value']//descendant::tagName[indexNumber]` | `//span[@class='guaranteed-delivery__switch']//descendant::span[1]`
 [Favourites](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Favourites.png)|`//tagName[@id='idNumber']/button`| `//span[@id='s0-14-11-6-3-listing1-item-1-1-16-0']/button`
-[Accept_Offers](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Accept_Offers.png)|syntax|xpath
+[Accept_Offers](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Accept_Offers.png)|`//tagName[@class='className' and text()='matching text']`|`//h2[@class='srp-format-tabs-h2' and text()='Accepts Offers']`
 [All_Listings](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/All_Listings.png)|syntax|xpath
 [Auction](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Auction.png)|syntax|xpath
 [Buy_it_now](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Buy_it_now.png)|syantx|xpath
