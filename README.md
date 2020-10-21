@@ -36,6 +36,8 @@ WebElement         | Syntax   | Xpath Expression|
 3. Type `$x("xpath")` Example: `$x("//input[@class='gh-tb ui-autocomplete-input']")`
 4. From console right clicking takes you to [Element panel](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Chrome_console.gif)
 
+# CSS selectors
+
 # Search WebElemnts using Search option in Chrome
 1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
 2. Copy paste an xpath in the search bar to locate the weblement
