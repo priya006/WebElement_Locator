@@ -16,7 +16,7 @@ WebElement         | Syntax   | Xpath Expression|
 [Auction](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Auction.png)|//tagName[@class='className' and text()='matching text']|//h2[@class='srp-format-tabs-h2' and text()='Auction']
 [Buy_it_now](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Buy_it_now.png)|`//tagName[@class='className' and text()='matching text']`|`//h2[@class='srp-format-tabs-h2' and text()='Buy It Now']`
 [Condition](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Condition.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Condition']`
-[DeliveryOptions](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/DeliveryOptions.png)|syntax|xpath
+[DeliveryOptions](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/DeliveryOptions.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Delivery Options']`
 
   
 # Tips and tricks
