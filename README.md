@@ -24,6 +24,12 @@ WebElement         | Syntax   | Xpath Expression|
 
 # jQuery HTML DOM
 
+# Javascript in Chrome COnsole to find Element
+
+# Search WebElemnts using Search option in Chrome
+1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
+2. Copy paste an xpath in the search bar to locate the weblement
+
 # How to use Chrome Developer console to write Xpath?
 1. Launch chrome browser Click `cmd+option+i` in mac OS. Chrome developer tool opens.
 2. Click open `Console`
