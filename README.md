@@ -66,7 +66,7 @@ Payment|syntax|div a|
 # How to visualize Html as a tree?
  Chrome extension [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) can be used to view Html as a tree
 
-# Differences Between CSS Selctors and Xpath
+# Differences Between CSS Selectors and Xpath
 ![Difference](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/DifferencesBetweenXpathadnCSS.png)
 
 # References
