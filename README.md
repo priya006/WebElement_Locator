@@ -64,7 +64,7 @@ Payment|syntax|div a|
 2. Copy paste an xpath in the search bar to locate the weblement
 
 # How to visualize Html as a tree?
-1. Chrome extension [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) can be used to view Html as a tree
+ Chrome extension [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) can be used to view Html as a tree
 
 
 # References
