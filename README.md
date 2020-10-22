@@ -1,5 +1,5 @@
 **Base_url:** https://www.qa.ebay.com/
-### Located Search Page using Xpath :eyes:
+### :eyes: Located Search Page using Xpath :eyes:
 https://www.qa.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=ipad&_sacat=0                    
 WebElement         | Syntax   | Xpath Expression|
 ------------- | -------------   | -------------------------
@@ -18,7 +18,7 @@ WebElement         | Syntax   | Xpath Expression|
 [Condition](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Condition.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Condition']`|
 [DeliveryOptions](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/DeliveryOptions.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Delivery Options']`|
 
-### Located Checkout Page using CSS Selectors :money_mouth_face:
+### :money_mouth_face: Located Checkout Page using CSS Selectors :money_mouth_face:
 
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
