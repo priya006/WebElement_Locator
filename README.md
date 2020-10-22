@@ -26,7 +26,6 @@ WebElement         | Syntax   | Xpath Expression|
 1. Chrome Extension [SelectorsHub](https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related?hl=en) can give us Xpath
 ![Selectors_hub](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Selectorshub.gif)
 
-# JavaScript in Chrome DevTools Console  
 
 # Use HTML DOM in Chrome DevTools Console to find WebElement
 1. Find Webelement `document.getElementById("gh-ac")`
@@ -46,9 +45,12 @@ WebElement         | Syntax   | Xpath Expression|
 1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
 2. Copy paste an xpath in the search bar to locate the weblement
 
+# How to visualize Html as a tree?
+1. Chrome extension [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) can be used to view Html as a tree
 
 
 # References
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
 - [Cheat Sheet](https://devhints.io/xpath)
+- [HTML DOM Tree Terminologies Tutorial](https://www.youtube.com/watch?v=N1Pe-wBtmx4)
 
