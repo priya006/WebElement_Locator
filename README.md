@@ -22,6 +22,10 @@ WebElement         | Syntax   | Xpath Expression|
 # Tips and tricks
 1. Attribute name will always start with `@` symbol. Example: `//input[@type='submit' and @value='Search']`
 
+# Tool to find Xpath
+1. Chrome Extension [SelectorsHub](https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related?hl=en) can give us Xpath
+![Selectors_hub](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Selectorshub.gif)
+
 # JavaScript in Chrome Console  
 
 # Use HTML DOM in Chrome Console to find WebElement
