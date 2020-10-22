@@ -36,7 +36,8 @@ Payment|syntax|div a|
 Payment|syntax|div a|
 
 
-### Tips and tricks
+### :money_with_wings: Tips and tricks [BONUS] :money_with_wings:
+-----------------------------------------------------------------
 1. Attribute name will always start with `@` symbol. Example: `//input[@type='submit' and @value='Search']`
 2. It is a good practice to analyze Html code first before jumping into writting WebElement locators :thinking:
 
