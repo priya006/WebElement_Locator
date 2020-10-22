@@ -42,7 +42,7 @@ WebElement         | Syntax   | Xpath Expression|
 
 # CSS selectors
 
-# Search WebElemnts using Search option in Chrome DevTools 
+# Search WebElements using Search option in Chrome DevTools 
 1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
 2. Copy paste an xpath in the search bar to locate the weblement
 
