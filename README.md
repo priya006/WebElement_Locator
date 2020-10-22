@@ -19,7 +19,7 @@ WebElement         | Syntax   | Xpath Expression|
 [DeliveryOptions](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/DeliveryOptions.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Delivery Options']`
 
   
-# Tips and tricks
+### Tips and tricks
 1. Attribute name will always start with `@` symbol. Example: `//input[@type='submit' and @value='Search']`
 
 # Tool to find Xpath
