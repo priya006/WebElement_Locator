@@ -21,7 +21,7 @@ WebElement         | Syntax   | Xpath Expression|
   
 ### Tips and tricks
 1. Attribute name will always start with `@` symbol. Example: `//input[@type='submit' and @value='Search']`
-2. It is a good practice to analyze Html code first before jumping into thinking about locators :thinking:
+2. It is a good practice to analyze Html code first before jumping into writting about locators :thinking:
 
 # Tool to find Xpath
 1. Chrome Extension [SelectorsHub](https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related?hl=en) can give us Xpath
