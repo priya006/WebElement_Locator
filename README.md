@@ -71,4 +71,5 @@ Payment|syntax|div a|
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
 - [Cheat Sheet](https://devhints.io/xpath)
 - [HTML DOM Tree Terminologies Tutorial](https://www.youtube.com/watch?v=N1Pe-wBtmx4)
+- [CSS Selctors](https://saucelabs.com/resources/articles/selenium-tips-css-selectors)
 
