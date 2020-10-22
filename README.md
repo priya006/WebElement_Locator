@@ -26,15 +26,15 @@ WebElement         | Syntax   | Xpath Expression|
 1. Chrome Extension [SelectorsHub](https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related?hl=en) can give us Xpath
 ![Selectors_hub](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Selectorshub.gif)
 
-# JavaScript in Chrome Console  
+# JavaScript in Chrome DevTools Console  
 
-# Use HTML DOM in Chrome Console to find WebElement
+# Use HTML DOM in Chrome DevTools Console to find WebElement
 1. Find Webelement `document.getElementById("gh-ac")`
 2. **ParentNode** of WebElement can be found like so `document.getElementById('gh-ac-box').parentNode.nodeName;`
 3. **InnerText** of a WebElement can be found like so `var innerHtml = document.getElementsByClassName("srp-format-tabs-h2")[0].innerHTML;`
 4. **First Child** could be found like so `document.getElementById('gh-ac-box').firstChild;`
 
-# How to use JQuery in Chrome Developer console to write Xpath?
+# How to use JQuery in Chrome DevTools console to write Xpath?
 1. Launch chrome browser Click `cmd+option+i` in mac OS. Chrome developer tool opens.
 2. Click open `Console`
 3. Type `$x("xpath")` Example: `$x("//input[@class='gh-tb ui-autocomplete-input']")`
@@ -42,7 +42,7 @@ WebElement         | Syntax   | Xpath Expression|
 
 # CSS selectors
 
-# Search WebElemnts using Search option in Chrome
+# Search WebElemnts using Search option in Chrome DevTools 
 1. If you know a unique ID press `cmd+f` and search for that specific ID `#gh-ac`. ID has to be prefixed with `#`
 2. Copy paste an xpath in the search bar to locate the weblement
 
