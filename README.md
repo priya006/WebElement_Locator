@@ -23,7 +23,7 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
-[Shipping](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Shipping.png)|syntax|div a|
+[Shipping](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Shipping.png)|`tagName[attributeName='attributeValue'] > tagName:first-child`|`tr[data-test-id='SHIPPING'] > td:first-child`|
 [Tax](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Tax.png)|syntax|div a|
 [Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|syntax|div a|
 [Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|syntax|div a|
