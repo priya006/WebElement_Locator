@@ -19,6 +19,7 @@ WebElement         | Syntax   | Xpath Expression|
 [DeliveryOptions](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/DeliveryOptions.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Delivery Options']`|
 
 ### :money_mouth_face: Located Checkout Page using CSS Selectors :money_mouth_face:
+https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
