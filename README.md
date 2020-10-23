@@ -26,8 +26,8 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 [Shipping](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Shipping.png)|`tagName[attributeName='attributeValue'] > tagName:first-child`|`tr[data-test-id='SHIPPING'] > td:first-child`|
 [Tax](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Tax.png)|syntax|div a|
 [Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|syntax|div a|
-[Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|syntax|div a|
-[eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|syntax|div a|
+[Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|`tagName.className>tagName.className:enabled`|`div.incentives-button>button.btn.btn--primary.btn--medium:enabled`|
+[eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|`tagName.className`|`div.ebay-money-back`|
 [Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|`tagName[`attributeName*='substring'][attributeName*='substring'][target='MatchingString']`|`a[title*='Opens'][href*='paying-tax'][target='_blank']`|
 [Privacy_Notice](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Privacy_Notice.png)|`tagName[attributeName~='substring'][attributeName*='substring'][attributeName='attributeValue]'`|`a[title~='Opens'][href*='privacy'][target='_blank']`|
 [User_Agreement](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/User_Agreement.png)|`tagName[attributeName*='substring'][attributeName*='substring']`|`a[title*='Opens'][href*='user-agreement.html']`|
