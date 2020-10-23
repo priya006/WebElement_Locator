@@ -23,18 +23,21 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
-Payment|syntax|div a|
+[Shipping](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Shipping.png)|syntax|div a|
+[Tax](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Tax.png)|syntax|div a|
+[Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|syntax|div a|
+[Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|syntax|div a|
+[eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|syntax|div a|
+[Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|syntax|div a|
+[Privacy_Notice](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Privacy_Notice.png)|syntax|div a|
+[User_Agreement](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/User_Agreement.png)|syntax|div a|
+[Show_payments](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Show_payments.png)|syntax|div a|
+[See_Details](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/See_Details.png)|syntax|div a|
+[Review_item_and_shipping_Quantity](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Review_item_and_shipping_Quantity.png)|syntax|div a|
+[Enter_Code](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Enter_Code.png)|syntax|div a|
+[Ship_to](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Ship_to.png)|syntax|div a|
+[Confirm_and_pay](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Confirm_and_pay.png)|syntax|div a|
+
 
 
 ### :money_with_wings: Tips and tricks [BONUS] :money_with_wings:
