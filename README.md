@@ -30,7 +30,7 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 [eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|syntax|div a|
 [Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|syntax|div a|
 [Privacy_Notice](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Privacy_Notice.png)|syntax|div a|
-[User_Agreement](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/User_Agreement.png)|syntax|div a|
+[User_Agreement](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/User_Agreement.png)|`tagName[attributeName*='substring'][attributeName*='substring']`|`a[title*='Opens'][href*='user-agreement.html']`|
 [Show_payments](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Show_payments.png)|syntax|div a|
 [See_Details](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/See_Details.png)|syntax|div a|
 [Review_item_and_shipping_Quantity](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Review_item_and_shipping_Quantity.png)|syntax|div a|
