@@ -35,7 +35,7 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 [See_Details](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/See_Details.png)|syntax|div a|
 [Review_item_and_shipping_Quantity](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Review_item_and_shipping_Quantity.png)|syntax|div a|
 [Enter_Code](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Enter_Code.png)|syntax|div a|
-[Ship_to](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Ship_to.png)|syntax|div a|
+[Ship_to](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Ship_to.png)|`tagName.className > directchild > directchild tagType:nth-child(indexno)`|`h2.module-title > span > span span:nth-child(1)`|
 [Confirm_and_pay](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Confirm_and_pay.png)|`#id_value > directchild > directchild > directchild`|`#page-form > div > button > span`|
 
 
