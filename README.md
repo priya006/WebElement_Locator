@@ -1,4 +1,5 @@
   # Table of contents
+----------------------------------------------------------------------------------------------------------------------------
 
 1. [Located Search Page using Xpath](#eyes-located-search-page-using-xpath-eyes)
 2. [Located Checkout Page using CSS Selectors](#money_mouth_face-located-checkout-page-using-css-selectors-money_mouth_face)
