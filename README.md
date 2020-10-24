@@ -1,4 +1,6 @@
 1. [Located Search Page using Xpath](#Located-Search-Page-using-Xpath)
+2. [Located Checkout Page using CSS Selectors](#Located-Checkout-Page-using-CSS-Selectors)
+3. [Tips and tricks](# Tips-and-tricks)
 
 **Base_url:** https://www.qa.ebay.com/
 ### :eyes: Located Search Page using Xpath :eyes:
