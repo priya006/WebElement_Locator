@@ -3,6 +3,11 @@
 3. [Tips and tricks](#money_with_wings-tips-and-tricks-bonus-money_with_wings)
 4. [Tool to find Xpath](#tool-to-find-xpath)
 5. [Use Html do in chrome devtools console to find webelements](#use-html-dom-in-chrome-devtools-console-to-find-webelement)
+6. [How to use jQuery in chrome devtools console to write xpath](#how-to-use-jquery-in-chrome-devtools-console-to-write-xpath)
+7. [Search webelements using ](#search-webelements-using-search-option-in-chrome-devtools)
+8. [How to visualize html as a tree](#how-to-visualize-html-as-a-tree)
+9. [Differences between CSS selectors and xpath](#differences-between-css-selectors-and-xpath)
+10.[References](#references)
 
 **Base_url:** https://www.qa.ebay.com/
 ### :eyes: Located Search Page using Xpath :eyes:
