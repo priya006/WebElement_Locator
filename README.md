@@ -2,6 +2,7 @@
 2. [Located Checkout Page using CSS Selectors](#money_mouth_face-located-checkout-page-using-css-selectors-money_mouth_face)
 3. [Tips and tricks](#money_with_wings-tips-and-tricks-bonus-money_with_wings)
 4. [Tool to find Xpath](#tool-to-find-xpath)
+5. [Use Html do in chrome devtools console to find webelements](#use-html-dom-in-chrome-devtools-console-to-find-webelement)
 
 **Base_url:** https://www.qa.ebay.com/
 ### :eyes: Located Search Page using Xpath :eyes:
