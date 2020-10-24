@@ -24,8 +24,8 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
 [Shipping](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Shipping.png)|`tagName[attributeName='attributeValue'] > tagName:first-child`|`tr[data-test-id='SHIPPING'] > td:first-child`|
-[Tax](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Tax.png)|syntax|div a|
-[Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|syntax|div a|
+[Tax](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Tax.png)|`tagName[attributeName='attributeValue']>tagName:first-of-type>tagName:first-of-type`|`tr[data-test-id='SALES_TAX']>td:first-of-type>span:first-of-type`|
+[Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|`tagName.className`|`div.section-title`|
 [Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|`tagName.className>tagName.className:enabled`|`div.incentives-button>button.btn.btn--primary.btn--medium:enabled`|
 [eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|`tagName.className`|`div.ebay-money-back`|
 [Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|`tagName[`attributeName*='substring'][attributeName*='substring'][target='MatchingString']`|`a[title*='Opens'][href*='paying-tax'][target='_blank']`|
