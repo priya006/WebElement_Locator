@@ -7,7 +7,7 @@
 7. [Search webelements using ](#search-webelements-using-search-option-in-chrome-devtools)
 8. [How to visualize html as a tree](#how-to-visualize-html-as-a-tree)
 9. [Differences between CSS selectors and xpath](#differences-between-css-selectors-and-xpath)
-10.[References](#references)
+10. [References](#references)
 
 **Base_url:** https://www.qa.ebay.com/
 ### :eyes: Located Search Page using Xpath :eyes:
