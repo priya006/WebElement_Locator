@@ -1,6 +1,7 @@
   # Table of contents
 ----------------------------------------------------------------------------------------------------------------------------
-
+1. [Located Search Page using Xpath]()
+2. [Located Checkout Page using CSS Selectors]()
 3. [Tips and tricks](#money_with_wings-tips-and-tricks-bonus-money_with_wings)
 4. [Tool to find Xpath](#tool-to-find-xpath)
 5. [Use Html do in chrome devtools console to find webelements](#use-html-dom-in-chrome-devtools-console-to-find-webelement)
