@@ -15,11 +15,11 @@
 **base_url**  https://www.ebay.com/                    
 WebElement         | Syntax   | Xpath Expression|
 ------------- | -------------   | -------------------------
-[search_box](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/search_box.png)  | `//tagname[@attributername='attributevalue']` |`//input[@class='gh-tb ui-autocomplete-input']`|
-[Best_Match_Drop_Down](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Best_Match_Drop_Down.png)  | `//tagName[@class='classname']//child::tagname[text()="matchedtext"]`    | `//span[@class='expand-btn__cell']//child::span[text()="Best Match"]` |
-[search_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Search_Button.png)| `//tagName[@attribute-name='attribute-value' and @attribute-name='attribute-value']` |`//input[@type='submit' and @value='Search']`|
-[select_category_dropdown](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Select_categoty.png)| `//tagName[contains(@attribute-name,'attribute-value')]` | `//select[contains(@aria-label,'category')]`|
-[shop_by_category_button](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Shop_By_category.png)| `//tagName[@attribute-name='attribute-value' and text()='Matching String'`| `//button[@id='gh-shop-a' and text()='Shop by category']`|
+[search_box](https://github.com/priya006/WebElement_Locator/blob/master/Images/search_box.png)  | `//tagname[@attributername='attributevalue']` |`//input[@class='gh-tb ui-autocomplete-input']`|
+[Best_Match_Drop_Down](https://github.com/priya006/WebElement_Locator/blob/master/Images/Best_Match_Drop_Down.png)  | `//tagName[@class='classname']//child::tagname[text()="matchedtext"]`    | `//span[@class='expand-btn__cell']//child::span[text()="Best Match"]` |
+[search_button](https://github.com/priya006/WebElement_Locator/blob/master/Images/Search_Button.png)| `//tagName[@attribute-name='attribute-value' and @attribute-name='attribute-value']` |`//input[@type='submit' and @value='Search']`|
+[select_category_dropdown](https://github.com/priya006/WebElement_Locator/blob/master/Images/Select_categoty.png)| `//tagName[contains(@attribute-name,'attribute-value')]` | `//select[contains(@aria-label,'category')]`|
+[shop_by_category_button](https://github.com/priya006/WebElement_Locator/blob/master/Images/Shop_By_category.png)| `//tagName[@attribute-name='attribute-value' and text()='Matching String'`| `//button[@id='gh-shop-a' and text()='Shop by category']`|
 [Model_categories_left_nav](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Model_category.png)| `class name = x-refine__left__nav` | some|
 [Guranteed_3_day_delivery_toggle](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Guranteed_3_day_delivery_toggle.png) | `//tagName[@attribute-name='attribute-value']//descendant::tagName[indexNumber]` | `//span[@class='guaranteed-delivery__switch']//descendant::span[1]`|
 [Favourites](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Favourites.png)|`//tagName[@id='idNumber']/button`| `//span[@id='s0-14-11-6-3-listing1-item-1-1-16-0']/button`|
