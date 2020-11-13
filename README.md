@@ -1,8 +1,6 @@
   # Table of contents
 ----------------------------------------------------------------------------------------------------------------------------
 
-1. [Located Search Page using Xpath](#eyes-located-search-page-using-xpath-eyes)
-2. [Located Checkout Page using CSS Selectors](#money_mouth_face-located-checkout-page-using-css-selectors-money_mouth_face)
 3. [Tips and tricks](#money_with_wings-tips-and-tricks-bonus-money_with_wings)
 4. [Tool to find Xpath](#tool-to-find-xpath)
 5. [Use Html do in chrome devtools console to find webelements](#use-html-dom-in-chrome-devtools-console-to-find-webelement)
@@ -12,9 +10,8 @@
 9. [Differences between CSS selectors and xpath](#differences-between-css-selectors-and-xpath)
 10. [References](#references)
 
-**Base_url:** https://www.qa.ebay.com/
 ### :eyes: Located Search Page using Xpath :eyes:
-https://www.qa.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=ipad&_sacat=0                    
+**base_url**  https://www.ebay.com/                    
 WebElement         | Syntax   | Xpath Expression|
 ------------- | -------------   | -------------------------
 [search_box](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/search_box.png)  | `//tagname[@attributername='attributevalue']` |`//input[@class='gh-tb ui-autocomplete-input']`|
@@ -33,7 +30,7 @@ WebElement         | Syntax   | Xpath Expression|
 [DeliveryOptions](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/DeliveryOptions.png)|`//tagName[@class='className']//child::tagName/tagName[text()='matching text']`|`//button[@class='fake-menu-button__button expand-btn expand-btn--small expand-btn--secondary']//child::span/span[text()='Delivery Options']`|
 
 ### :money_mouth_face: Located Checkout Page using CSS Selectors :money_mouth_face:
-https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
+**base_url**  https://www.ebay.com/
 
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
@@ -42,7 +39,7 @@ https://pay.qa.ebay.com/rxo?action=view&sessionid=6791754017
 [Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|`tagName.className`|`div.section-title`|
 [Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|`tagName.className>tagName.className:enabled`|`div.incentives-button>button.btn.btn--primary.btn--medium:enabled`|
 [eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|`tagName.className`|`div.ebay-money-back`|
-[Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|`tagName[`attributeName*='substring'][attributeName*='substring'][target='MatchingString']`|`a[title*='Opens'][href*='paying-tax'][target='_blank']`|
+[Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|`tagName[attributeName*='substring'][attributeName*='substring'][target='MatchingString']`|`a[title*='Opens'][href*='paying-tax'][target='_blank']`|
 [Privacy_Notice](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Privacy_Notice.png)|`tagName[attributeName~='substring'][attributeName*='substring'][attributeName='attributeValue]'`|`a[title~='Opens'][href*='privacy'][target='_blank']`|
 [User_Agreement](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/User_Agreement.png)|`tagName[attributeName*='substring'][attributeName*='substring']`|`a[title*='Opens'][href*='user-agreement.html']`|
 [Show_payments](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Show_payments.png)|`tagName[attributeName='attributeValue']`|`a[data-test-id='SHOW_MORE']`|
