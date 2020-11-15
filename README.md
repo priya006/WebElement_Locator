@@ -35,20 +35,20 @@ WebElement         | Syntax   | Xpath Expression|
 
   WebElement         | Syntax   | CSS Selectors|
 ------------- | -------------   | -------------------------
-[Shipping](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Shipping.png)|`tagName[attributeName='attributeValue'] > tagName:first-child`|`tr[data-test-id='SHIPPING'] > td:first-child`|
-[Tax](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Tax.png)|`tagName[attributeName='attributeValue']>tagName:first-of-type>tagName:first-of-type`|`tr[data-test-id='SALES_TAX']>td:first-of-type>span:first-of-type`|
-[Delivery](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Delivery.png)|`tagName.className`|`div.section-title`|
-[Apply](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Apply.png)|`tagName.className>tagName.className:enabled`|`div.incentives-button>button.btn.btn--primary.btn--medium:enabled`|
-[eBay_Money_Gurantee](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/eBay_Money_Gurantee.png)|`tagName.className`|`div.ebay-money-back`|
-[Learn_More](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Learn_More.png)|`tagName[attributeName*='substring'][attributeName*='substring'][target='MatchingString']`|`a[title*='Opens'][href*='paying-tax'][target='_blank']`|
-[Privacy_Notice](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Privacy_Notice.png)|`tagName[attributeName~='substring'][attributeName*='substring'][attributeName='attributeValue]'`|`a[title~='Opens'][href*='privacy'][target='_blank']`|
-[User_Agreement](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/User_Agreement.png)|`tagName[attributeName*='substring'][attributeName*='substring']`|`a[title*='Opens'][href*='user-agreement.html']`|
-[Show_payments](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Show_payments.png)|`tagName[attributeName='attributeValue']`|`a[data-test-id='SHOW_MORE']`|
-[See_Details](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/See_Details.png)|`.className NestedchildTag:nth-last-child(indexNo) > directchild`|`.text-center.buyer-protection div:nth-last-child(1) > a`|
-[Review_item_and_shipping_Quantity](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Review_item_and_shipping_Quantity.png)|`tagName[attributeName^='starts-with-String']>directchild:first-child`|`select[id^='qty-BId']>option:first-child`|
-[Enter_Code](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Enter_Code.png)|`tagName[attributeName='attributeValue']+tagName > DirecChildTag[attributeName='attributeValue']`|`label[for='redemptionCode']+div > input[name='redemptionCode']`|
-[Ship_to](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Ship_to.png)|`tagName.className > directchild > directchild tagType:nth-child(indexno)`|`h2.module-title > span > span span:nth-child(1)`|
-[Confirm_and_pay](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/Confirm_and_pay.png)|`#id_value > directchild > directchild > directchild`|`#page-form > div > button > span`|
+[Shipping](https://github.com/priya006/WebElement_Locator/blob/master/Images/Shipping.png)|`tagName[attributeName='attributeValue'] > tagName:first-child`|`tr[data-test-id='SHIPPING'] > td:first-child`|
+[Tax](https://github.com/priya006/WebElement_Locator/blob/master/Images/Tax.png)|`tagName[attributeName='attributeValue']>tagName:first-of-type>tagName:first-of-type`|`tr[data-test-id='SALES_TAX']>td:first-of-type>span:first-of-type`|
+[Delivery](https://github.com/priya006/WebElement_Locator/blob/master/Images/Delivery.png)|`tagName.className`|`div.section-title`|
+[Apply](https://github.com/priya006/WebElement_Locator/blob/master/Images/Apply.png)|`tagName.className>tagName.className:enabled`|`div.incentives-button>button.btn.btn--primary.btn--medium:enabled`|
+[eBay_Money_Gurantee](https://github.com/priya006/WebElement_Locator/blob/master/Images/eBay_Money_Gurantee.png)|`tagName.className`|`div.ebay-money-back`|
+[Learn_More](https://github.com/priya006/WebElement_Locator/blob/master/Images/Learn_More.png)|`tagName[attributeName*='substring'][attributeName*='substring'][target='MatchingString']`|`a[title*='Opens'][href*='paying-tax'][target='_blank']`|
+[Privacy_Notice](https://github.com/priya006/WebElement_Locator/blob/master/Images/Privacy_Notice.png)|`tagName[attributeName~='substring'][attributeName*='substring'][attributeName='attributeValue]'`|`a[title~='Opens'][href*='privacy'][target='_blank']`|
+[User_Agreement](https://github.com/priya006/WebElement_Locator/blob/master/Images/User_Agreement.png)|`tagName[attributeName*='substring'][attributeName*='substring']`|`a[title*='Opens'][href*='user-agreement.html']`|
+[Show_payments](https://github.com/priya006/WebElement_Locator/blob/master/Images/Show_payments.png)|`tagName[attributeName='attributeValue']`|`a[data-test-id='SHOW_MORE']`|
+[See_Details](https://github.com/priya006/WebElement_Locator/blob/master/Images/See_Details.png)|`.className NestedchildTag:nth-last-child(indexNo) > directchild`|`.text-center.buyer-protection div:nth-last-child(1) > a`|
+[Review_item_and_shipping_Quantity](https://github.com/priya006/WebElement_Locator/blob/master/Images/Review_item_and_shipping_Quantity.png)|`tagName[attributeName^='starts-with-String']>directchild:first-child`|`select[id^='qty-BId']>option:first-child`|
+[Enter_Code](https://github.com/priya006/WebElement_Locator/blob/master/Images/Enter_Code.png)|`tagName[attributeName='attributeValue']+tagName > DirecChildTag[attributeName='attributeValue']`|`label[for='redemptionCode']+div > input[name='redemptionCode']`|
+[Ship_to](https://github.com/priya006/WebElement_Locator/blob/master/Images/Ship_to.png)|`tagName.className > directchild > directchild tagType:nth-child(indexno)`|`h2.module-title > span > span span:nth-child(1)`|
+[Confirm_and_pay](https://github.com/priya006/WebElement_Locator/blob/master/Images/Confirm_and_pay.png)|`#id_value > directchild > directchild > directchild`|`#page-form > div > button > span`|
 
 
 
