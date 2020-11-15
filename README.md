@@ -59,7 +59,7 @@ WebElement         | Syntax   | Xpath Expression|
 
 # Tool to find Xpath
 1. Chrome Extension [SelectorsHub](https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related?hl=en) can give us Xpath
-![Selectors_hub](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Selectorshub.gif)
+![Selectors_hub](https://github.com/priya006/WebElement_Locator/blob/master/Images/Selectorshub.gif)
 
 
 # Use HTML DOM in Chrome DevTools Console to find WebElement
@@ -83,7 +83,7 @@ WebElement         | Syntax   | Xpath Expression|
  Chrome extension [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) can be used to view Html as a tree
 
 # Differences Between CSS Selectors and Xpath
-![Difference](https://github.corp.ebay.com/pboopathi/WebElement-Locator-PlayBook/blob/master/Images/DifferencesBetweenXpathadnCSS.png)
+![Difference](https://github.com/priya006/WebElement_Locator/blob/master/Images/DifferencesBetweenXpathadnCSS.png)
 
 # References
 - [Xpath Guide](https://www.lambdatest.com/blog/complete-guide-for-using-xpath-in-selenium-with-examples/)
