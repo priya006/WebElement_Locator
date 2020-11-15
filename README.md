@@ -72,7 +72,7 @@ WebElement         | Syntax   | Xpath Expression|
 1. Launch chrome browser Click `cmd+option+i` in mac OS. Chrome developer tool opens.
 2. Click open `Console`
 3. Type `$x("xpath")` Example: `$x("//input[@class='gh-tb ui-autocomplete-input']")`
-4. From console right clicking takes you to [Element panel](https://github.corp.ebay.com/pboopathi/Xpath-CheatSheet/blob/master/Images/Chrome_console.gif)
+4. From console right clicking takes you to [Element panel](https://github.com/priya006/WebElement_Locator/blob/master/Images/Chrome_console.gif)
 
 
 # Search WebElements using Search option in Chrome DevTools 
