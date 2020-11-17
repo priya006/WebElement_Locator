@@ -59,7 +59,7 @@ WebElement         | Syntax   | Xpath Expression|
 
 # Tool to find Xpath
 1. Chrome Extension [SelectorsHub](https://chrome.google.com/webstore/detail/selectorshub/ndgimibanhlabgdgjcpbbndiehljcpfh/related?hl=en) can give us Xpath
-![Selectors_hub](https://github.com/priya006/WebElement_Locator/blob/master/Images/Selectorshub.gif)
+![Selectors_hub](https://github.com/priya006/WebElement_Locator/blob/master/Images/Selectors_hub_new.gif)
 
 
 # Use HTML DOM in Chrome DevTools Console to find WebElement
